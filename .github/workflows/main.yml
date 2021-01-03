@@ -9,6 +9,9 @@ on:
       logLevel:
         description: 'Log level'     
         required: true
+  schedule:
+    - cron: '0 */3 * * *'
+        
 jobs:
   build:
     runs-on: ubuntu-latest
