@@ -17,3 +17,5 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - uses: rzkmak/rui@v1
+        env:
+          TELEGRAM_TOKEN: ${secrets.TELEGRAM_TOKEN}
