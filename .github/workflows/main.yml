@@ -1,0 +1,17 @@
+# This is a basic workflow to help you get started with Actions
+
+name: demo
+
+# Controls when the action will run. 
+on: 
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: rizkima/rui@v1
