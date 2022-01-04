@@ -8,7 +8,7 @@
 #   custom_message: ""
 #   chat_id: "rsstotelegramdev"
 
-- url: "https://www.cnnindonesia.com/ekonomi/rss"
-  title: "CNBC | Ekonomi"
-  custom_message: ""
-  chat_id: "rsstotelegramdev"
+# - url: "https://www.cnnindonesia.com/ekonomi/rss"
+#   title: "CNBC | Ekonomi"
+#   custom_message: ""
+#   chat_id: "rsstotelegramdev"
