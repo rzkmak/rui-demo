@@ -1,4 +1,14 @@
-- url: "https://rizkima.com/index.xml"
-  title: "Rizkima"
-  custom_message: "Update from Rizkima"
+- url: "https://www.cnbcindonesia.com/market/rss/"
+  title: "CNBC | Market"
+  custom_message: ""
+  chat_id: "rsstotelegramdev"
+
+- url: "https://www.jawapos.com/ekonomi/feed/"
+  title: "JawaPos | Ekonomi"
+  custom_message: ""
+  chat_id: "rsstotelegramdev"
+
+- url: "https://www.cnnindonesia.com/ekonomi/rss"
+  title: "CNBC | Ekonomi"
+  custom_message: ""
   chat_id: "rsstotelegramdev"
